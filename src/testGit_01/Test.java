@@ -9,6 +9,7 @@ public class Test {
        // this is the modification for Kemals code
         //    let me know if I did the right way?
 
+        // my message to Kazim - everything works
 
     }
 }
