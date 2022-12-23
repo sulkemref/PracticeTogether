@@ -6,8 +6,8 @@ public class Test {
 
         System.out.println("Hello world");
         
-        this is the modification for Kemals code
-            let me know if I did the right way? 
+       // this is the modification for Kemals code
+        //    let me know if I did the right way?
 
 
     }
