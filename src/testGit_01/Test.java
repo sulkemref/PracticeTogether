@@ -6,10 +6,12 @@ public class Test {
 
         System.out.println("Hello world");
         
-       // this is the modification for Kemals code
+        // this is the modification for Kemals code
         //    let me know if I did the right way?
 
         // my message to Kazim - everything works
+
+        System.out.println("It Works!");
 
     }
 }
